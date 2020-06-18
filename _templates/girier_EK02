@@ -7,7 +7,7 @@ template: '{"NAME":"Girier EK02","GPIO":[157,0,0,0,0,17,0,0,18,21,22,0,0],"FLAG"
 link: https://www.aliexpress.com/item/4000242679288.html
 link2: 
 mlink: 
-flash: serial
+flash: tuya-convert
 category: switch
 type: Switch
 standard: eu
