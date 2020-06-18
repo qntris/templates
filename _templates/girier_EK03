@@ -7,7 +7,7 @@ template: '{"NAME":"EK03","GPIO":[157,0,0,0,22,17,0,0,19,21,23,0,18],"FLAG":0,"B
 link: https://www.aliexpress.com/item/4000242679288.html
 link2: 
 mlink: 
-flash: serial
+flash: tuya-convert
 category: switch
 type: Switch
 standard: eu
